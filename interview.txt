@@ -1,0 +1,28 @@
+//q what is buffeer-> temprory memory location
+
+2: Asynchronus basic node js
+3 draw back asynchronus programin
+ands-> 
+//darawback
+let a=10
+let b=0;
+
+setTimeout(() => {
+        b=20;
+}, 2000);
+
+console.log(a+b);
+//---------------------------------
+
+4 how node js work
+1.call stack
+
+node Api
+callback queue
+Example
+interview quetion
+
+//---------------------------------
+    5 Express js
+        1 what is Express
+        2
